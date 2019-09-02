@@ -1,7 +1,3 @@
-PS C:\Users\rsouza\Documents\GitHub\dockerenode> yarn init -y
-
-PS C:\Users\rsouza\Documents\GitHub\dockerenode> yarn add express
-
 PS C:\Users\rsouza\Documents\GitHub\dockerenode> docker -v
 
 PS C:\Users\rsouza\Documents\GitHub\dockerenode> docker-compose -v
